@@ -3,7 +3,7 @@
 
 #include <Adafruit_NeoPixel.h>
 
-#definePIN 6
+#define PIN 6
 #define WIDTH 8
 #define HEIGHT 8
 #define DEPTH 8
