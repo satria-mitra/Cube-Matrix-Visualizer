@@ -1,3 +1,5 @@
+//The rain 1 code is a simple animation of falling raindrops
+
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 6 // LED data input pin
