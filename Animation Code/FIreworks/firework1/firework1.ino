@@ -1,3 +1,5 @@
+// A simple firework code, the animation of the explosion needs to be improved
+
 void fireworks() {
    int num = 64;
    int leds = 5;
