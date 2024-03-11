@@ -109,24 +109,24 @@ void setup() {
 
 void loop() {
   
-  switch(option){
-    case 0:
-     looptype2();
-    //return;
-    break;
-    case 1:
-    looptype3();
-    //return;
-    break;
-    case 2:
-    looptype2();
-    //return;
-    break;
-    case 3:
-    looptype3();
-    //return;
-    break;
-  }
+  // switch(option){
+  //   case 0:
+  //looptype2();
+  //   //return;
+  //   break;
+  //   case 1:
+  looptype3();
+  //   //return;
+  //   break;
+  //   case 2:
+  //   looptype2();
+  //   //return;
+  //   break;
+  //   case 3:
+  //   looptype3();
+  //   //return;
+  //   break;
+  // }
 
   
 
@@ -848,10 +848,15 @@ void co2data(int co2){
   int numlength= co2data.length();
   Serial.println(co2data);
   Serial.println(numlength);
-  C(Red);
-  num0(Red);
-  num2(Red);
-  colon(Red);
+  if(co2>1500){
+    mycolor =1;
+  }else{
+    mycolor =15;
+  }
+  C(mycolor);
+  num0(mycolor);
+  num2(mycolor);
+  colon(mycolor);
   numspeed=30;
 
   for(int i=0;i<co2data.length();i++){
@@ -859,34 +864,34 @@ void co2data(int co2){
     Serial.println(Digit);
     switch(Digit){
       case '0':
-      num0(Red);
+      num0(mycolor);
       break;
       case '1':
-      num1(Red);
+      num1(mycolor);
       break;
       case '2':
-      num2(Red);
+      num2(mycolor);
       break;
       case '3':
-      num3(Red);
+      num3(mycolor);
       break;
       case '4':
-      num4(Red);
+      num4(mycolor);
       break;
       case '5':
-      num5(Red);
+      num5(mycolor);
       break;
       case '6':
-      num6(Red);
+      num6(mycolor);
       break;
       case '7':
-      num7(Red);
+      num7(mycolor);
       break;
       case '8':
-      num8(Red);
+      num8(mycolor);
       break;
       case '9':
-      num9(Red);
+      num9(mycolor);
       break;
       default:
       break;
@@ -1036,7 +1041,7 @@ void rain(float hum){
   int num=64;
   int num2=0;
 
-  int x[num], y[num], z[num], zlevel[num], leds = 10,lednum;
+  int x[num], y[num], z[num], zlevel[num], leds = 25,lednum;
   int xold[num], yold[num], zold[num];
   int ranled[leds];
 
@@ -1050,11 +1055,11 @@ void rain(float hum){
       }
     }
   for(int i = 0;i<leds;i++){
-    ranled[i]=random(0,63);
+    ranled[i]=random(0,64);
   }
     int numnnnn=0;
   start = millis();
-  while (millis() - start < 10000){
+  while (millis() - start < 1000000){
     for(lednum = 0;lednum<leds;lednum++){
       // if(z[ranled[lednum]]>0){
         
@@ -1083,7 +1088,7 @@ void rain(float hum){
           }
         
         //Serial.println(zlevel[ranled[lednum]]);
-        ranled[lednum]=random(0,63);
+        ranled[lednum]=random(0,64);
       }
       
       
