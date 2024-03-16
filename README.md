@@ -4,7 +4,7 @@
 
 The Cube-Matrix Visualizer project ambitiously bridges the realms of IoT (Internet of Things) technology and art, aiming to craft a piece of data visualization equipment that caters to the sophisticated demands of contemporary society. Initially, the device focuses on diminishing humidity levels and presenting carbon dioxide concentrations through an array of LED animations. The vision extends to incorporating an OTA (Over-The-Air) service for upgrading the device's capabilities, enabling the visualization of a broader spectrum of data through even more captivating animations.
 
-## Why is Cube-Matrix Visualizer Useful?
+## Why is Cube-Matrix Visualizer Useful? 
 
 In an era oversaturated with data, the Cube-Matrix Visualizer emerges as a beacon of innovation, merging the practicality of IoT technology with the sublime beauty of art. This fusion presents a unique advantage: making data not only accessible but also aesthetically pleasing, transforming mundane statistics into captivating visual stories.
 
