@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-03-18T14:33:45Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.2278,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Led_Cube v25"
+        },
+        "Owner": "Satria Utama <satria.utama.23@ucl.ac.uk>",
+        "Size": {
+            "X": 60,
+            "Y": 100
+        }
+    }
+}
