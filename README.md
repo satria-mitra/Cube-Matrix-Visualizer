@@ -1,4 +1,4 @@
-# Cube Matrix
+# Cube-Matrix Visualizer
 
 <p align="center">
   <img width="460" height="300" src="https://img.youtube.com/vi/XeQNfcWp1Bc/0.jpg" link="https://www.youtube.com/watch?v=XeQNfcWp1Bc">
