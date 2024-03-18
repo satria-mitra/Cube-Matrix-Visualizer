@@ -1,8 +1,8 @@
 # Cube-Matrix Visualizer
 
-
-[![Cube Matrix](https://img.youtube.com/vi/XeQNfcWp1Bc/0.jpg)](https://www.youtube.com/watch?v=XeQNfcWp1Bc)
-
+<p align="center">
+  <img width="460" height="300" src="https://img.youtube.com/vi/XeQNfcWp1Bc/0.jpg" link="https://www.youtube.com/watch?v=XeQNfcWp1Bc">
+</p>
 
 ## What is Cube-Matrix Visualizer?
 
