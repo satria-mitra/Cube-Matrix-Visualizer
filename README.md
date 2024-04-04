@@ -30,12 +30,20 @@ The promise of OTA updates opens a realm of future possibilities, where the devi
 
 ## Getting Started
 
-Currently, the Cube-Matrix Visualizer is available as a finished product. To get started:
+The Cube-Matrix Visualizer is available as a finished product. To get started:
 
 1. Place an order and inspect the product upon arrival to ensure it's in good condition.
 2. Connect the device to a power source. It's designed to support a wide range of voltages, making it accessible to users in various locations without the need for additional transformers. However, users with specific electricity requirements should use appropriate converters.
 3. Once powered, the Cube will activate. Please allow a brief period for its sensors to adjust to optimal working conditions.
 4. To cycle through different LED animations, simply press the button located on the front base of the device. Animations will change in sequence.
+
+Now, you can assemble your own Cube-Matrix. To make your own cube, please follow the steps below:
+To get started with Cube Matrix, please follow the steps below:
+
+1. Clone the Repository: git clone https://github.com/satria-mitra/Cube-Matrix.git
+2. Hardware Setup: Assemble the Cube Matrix using the provided list of components and assembly instructions found in the Hardware folder.
+3. Software Configuration: Navigate to the Software folder and follow the setup instructions to install necessary libraries and upload the code to your microcontroller.
+4. Running Cube Matrix: Power up the device and use the button interface to toggle between different environmental data visualizations.
 
 ## Getting Help
 
@@ -45,4 +53,23 @@ Owners of the Cube-Matrix Visualizer will receive a comprehensive manual detaili
 - **GitHub Repository:** Feel free to post questions or feedback in the issues section of our GitHub repository.
 - **Future Online Support:** We plan to launch a dedicated website offering an enhanced support function for an improved user experience.
 
-Stay tuned for future updates and enhancements to the Cube-Matrix Visualizer, as we continue to expand its capabilities and bring more data to life through art.
+For more direct assistance, you can also reach out to our team members via GitHub profiles linked in the Contributors section
+
+## Contributors
+Cube Matrix is maintained and contributed to by a dedicated team of students from the Connected Environments course at CASA. Our team members are
+1. [Satria Utama ](https://github.com/satria-mitra)
+2. [Guandi Chen](https://github.com/grandy0831)
+3. [Huanchao Hong](https://github.com/ChaceHH-H)
+4. [Zekun Wang](https://github.com/AntiRain114)
+
+## Design, Development, and Execution
+The Cube Matrix project started as an inspiration from a basic LED cube project, evolving into a sophisticated tool for visualizing environmental quality. The project's development journey, from the initial 5x5x5 cube prototype to the advanced 8x8x8 design, showcases our commitment to innovation and user-centric design.
+
+## Key Features
+Environmental Monitoring: Measures temperature, humidity, and CO2 levels.
+Dynamic Visual Display: Uses animations to display IEQ data, making it intuitive.
+Educational Tool: Helps users understand the impact of IEQ on health and well-being.
+For a comprehensive overview of the design process, technical challenges, and our solutions, please refer to the Documentation folder, which includes detailed design documents and technical drawings.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
