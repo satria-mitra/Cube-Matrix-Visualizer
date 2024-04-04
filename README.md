@@ -4,7 +4,7 @@
   <img width="460" height="300" src="https://img.youtube.com/vi/XeQNfcWp1Bc/0.jpg" link="https://www.youtube.com/watch?v=XeQNfcWp1Bc">
 </p>
 
-To see how Cube Matrix, please visit our [youtube channel](https://www.youtube.com/watch?v=XeQNfcWp1Bc)
+To see how Cube Matrix works, please visit our [youtube channel](https://www.youtube.com/watch?v=XeQNfcWp1Bc)
 
 ## What is Cube-Matrix Visualizer?
 
