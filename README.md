@@ -4,6 +4,8 @@
   <img width="460" height="300" src="https://img.youtube.com/vi/XeQNfcWp1Bc/0.jpg" link="https://www.youtube.com/watch?v=XeQNfcWp1Bc">
 </p>
 
+To see how Cube Matrix, please visit our [youtube channel](https://www.youtube.com/watch?v=XeQNfcWp1Bc)
+
 ## What is Cube-Matrix Visualizer?
 
 The Cube-Matrix Visualizer project ambitiously bridges the realms of IoT (Internet of Things) technology and art, aiming to craft a piece of data visualization equipment that caters to the sophisticated demands of contemporary society. Initially, the device focuses on diminishing humidity levels and presenting carbon dioxide concentrations through an array of LED animations. The vision extends to incorporating an OTA (Over-The-Air) service for upgrading the device's capabilities, enabling the visualization of a broader spectrum of data through even more captivating animations.
