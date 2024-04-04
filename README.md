@@ -40,7 +40,6 @@ The Cube-Matrix Visualizer is available as a finished product. To get started:
 4. To cycle through different LED animations, simply press the button located on the front base of the device. Animations will change in sequence.
 
 Now, you can assemble your own Cube-Matrix. To make your own cube, please follow the steps below:
-To get started with Cube Matrix, please follow the steps below:
 
 1. Clone the Repository: git clone https://github.com/satria-mitra/Cube-Matrix.git
 2. Hardware Setup: Assemble the Cube Matrix using the provided list of components and assembly instructions found in the Hardware folder.
