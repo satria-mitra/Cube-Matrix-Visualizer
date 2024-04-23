@@ -67,7 +67,7 @@ Cube Matrix is maintained and contributed to by a dedicated team of students fro
 The Cube Matrix project started as an inspiration from a basic LED cube project, evolving into a sophisticated tool for visualizing environmental quality. The project's development journey, from the initial 5x5x5 cube prototype to the advanced 8x8x8 design, showcases our commitment to innovation and user-centric design.  
 
 **Cube making steps**  
-1. Use 3D printer to print two solder holders（）.  
+1. Use 3D printer to print two solder holders（solder holders/Holder-3.stl）.  
 2. Splice the two holders together, place the rgb LED on the holder and solder the data pin (data in to data out) between the two LEDs.
    ![LED schematic](https://github.com/satria-mitra/Cube-Matrix/assets/146041784/b9202c57-1ada-4304-ae02-5b87e002d1ee)
 4. Cut and straighten the copper wire and place the copper wire on the groove of the holder,then solder rgb led and copper wires according to the schematic diagram to make eight led layers, and power up to test each layer.  
