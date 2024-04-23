@@ -69,10 +69,11 @@ The Cube Matrix project started as an inspiration from a basic LED cube project,
 **Cube making steps**  
 1. Use 3D printer to print two solder holders（）.  
 2. Splice the two holders together, place the rgb LED on the holder and solder the data pin (data in to data out) between the two LEDs.
-3. Cut and straighten the copper wire and place the copper wire on the groove of the holder,then solder rgb led and copper wires according to the schematic diagram to make eight led layers, and power up to test each layer.  
-4. Laser cut four cube holders, then use the holders to support the layers to build the cube and solder the ground, power and data pins for each layer（Pay attention to the data pin connection method of each layer, data in must be connected to data out.）.
-5. Use Adafruit Feather M0 Doard to connect the cube, connect the ground and power supply normally, and connect the data in of the bottom layer to the D6 pin of the board.
-6. Upload the (Scripts/Final_code/Cube_Final.ino)code to the board, and the cube will display three animations in a loop.
+   ![LED schematic](https://github.com/satria-mitra/Cube-Matrix/assets/146041784/b9202c57-1ada-4304-ae02-5b87e002d1ee)
+4. Cut and straighten the copper wire and place the copper wire on the groove of the holder,then solder rgb led and copper wires according to the schematic diagram to make eight led layers, and power up to test each layer.  
+5. Laser cut four cube holders, then use the holders to support the layers to build the cube and solder the ground, power and data pins for each layer（Pay attention to the data pin connection method of each layer, data in must be connected to data out.）.
+6. Use Adafruit Feather M0 Doard to connect the cube, connect the ground and power supply normally, and connect the data in of the bottom layer to the D6 pin of the board.
+7. Upload the (Scripts/Final_code/Cube_Final.ino)code to the board, and the cube will display three animations in a loop.
    
 
 
