@@ -64,7 +64,13 @@ Cube Matrix is maintained and contributed to by a dedicated team of students fro
 4. [Zekun Wang](https://github.com/AntiRain114)
 
 ## Design, Development, and Execution
-The Cube Matrix project started as an inspiration from a basic LED cube project, evolving into a sophisticated tool for visualizing environmental quality. The project's development journey, from the initial 5x5x5 cube prototype to the advanced 8x8x8 design, showcases our commitment to innovation and user-centric design.
+The Cube Matrix project started as an inspiration from a basic LED cube project, evolving into a sophisticated tool for visualizing environmental quality. The project's development journey, from the initial 5x5x5 cube prototype to the advanced 8x8x8 design, showcases our commitment to innovation and user-centric design.  
+
+**Cube making steps**  
+1. Using 3D printing to make a solder holder（）.  
+2. Solder rgb led and copper wires according to the schematic diagram to make eight led layers, and power up and test each layer.  
+3. Laser cut four cube holders, then use the holders to support the layers to build the cube and solder the ground, power and data pins for each layer（Pay attention to the data pin connection method of each layer, data in must be connected to data out.）.  
+
 
 ## Key Features
 Environmental Monitoring: Measures temperature, humidity, and CO2 levels.
