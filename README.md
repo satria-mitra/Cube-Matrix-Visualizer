@@ -8,7 +8,7 @@ To see how Cube Matrix works, please visit our [youtube channel](https://www.you
 
 ## What is Cube-Matrix Visualizer?
 
-The Cube-Matrix Visualizer project ambitiously bridges the realms of IoT (Internet of Things) technology and art, aiming to craft a piece of data visualization equipment that caters to the sophisticated demands of contemporary society. Initially, the device focuses on diminishing humidity levels and presenting carbon dioxide concentrations through an array of LED animations. The vision extends to incorporating an OTA (Over-The-Air) service for upgrading the device's capabilities, enabling the visualization of a broader spectrum of data through even more captivating animations.
+Cube-Matrix Visualizer creatively connects the fields of IoT (Internet of Things) technology and art, aiming to create a data visualization device that meets the complex needs of contemporary society. Currently, the device focuses on reacting to changes in humidity, temperature and carbon dioxide concentration with a series of artistic LED animations. In the future, the team will provide OTA (over-the-air) services to upgrade the functionality of the device and enable broader data visualization through more captivating animations.
 
 ## Why is Cube-Matrix Visualizer Useful? 
 
