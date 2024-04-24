@@ -30,6 +30,9 @@ Beyond mere decoration, the Cube-Matrix Visualizer engages its users on a sensor
 
 The promise of OTA updates opens a realm of future possibilities, where the device's artistry and functionality evolve together. New data visualizations can be introduced, offering fresh perspectives and insights, and keeping the user's experience vibrant and current. This commitment to growth ensures that the Cube-Matrix Visualizer remains not only a tool for today but a lasting piece of art that continues to enrich lives.
 
+##Market analysis
+
+
 ## Getting Started
 
 The Cube-Matrix Visualizer is available as a finished product. To get started:
