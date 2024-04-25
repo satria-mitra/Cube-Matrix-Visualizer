@@ -30,7 +30,61 @@ Beyond mere decoration, the Cube-Matrix Visualizer engages its users on a sensor
 
 The promise of OTA updates opens a realm of future possibilities, where the device's artistry and functionality evolve together. New data visualizations can be introduced, offering fresh perspectives and insights, and keeping the user's experience vibrant and current. This commitment to growth ensures that the Cube-Matrix Visualizer remains not only a tool for today but a lasting piece of art that continues to enrich lives.
 
-##Market analysis
+## Market analysis
+
+We are a small independent entrepreneurial company. Our product is an LED cube system that can visualize the air quality data (including CO2 concentration, temperature, humidity) collected by the sensor using an animation played by the LED cube.  This system uses an independent power supply and a wide voltage design, and can be used directly in most areas of the world. Users can use the buttons on the product base to switch animation modes and display different data. The cost of our product, without taking into account labor costs, is 126 pounds. It takes 24 hours of work for this team member to complete this product. If you consider London wage standards, the total cost is approximately 366 pounds, which is what we need solved problem.
+Our target market is technology enthusiasts, education fields, and high-consumption groups. Our products will be crowdfunded on kickstarter.
+Our opponents mainly fall into two categories. One is traditional LED cube kits, which are cheaper but cannot provide air quality detection functions. At the same time, they rarely sell finished products, which poses challenges to users’ technical capabilities and time. In addition, such products do not have the ability to interact with users. The other category is traditional air quality detectors, with similar accuracy, they are also cheaper, but they do not have furniture/decoration capabilities and lack the artistic expression of this product.
+We will also provide free ota services to crowdfunding users to ensure the rights and interests of crowdfunding users.
+Our current market areas are Europe and North America.
+
+### SWOT.
+- Advantage
+LED CUBE with integrated air quality detection is a pioneering solution in the technology market, offering the dual functionality of air quality detection and visual display via an LED cube. This fusion of innovations not only differentiates the product but also captures a niche market consisting of technology enthusiasts, the education sector and high-spending groups. A significant advantage of this product is that users can interact with the product by changing animation modes and displaying various data, thus enhancing the overall user experience. Additionally, providing over-the-air (OTA) updates to crowdfunding users signifies our commitment to product longevity and customer satisfaction.
+
+- Weakness
+Conversely, the product's market penetration may be hampered by its high production costs (approximately £366), placing it in a higher price range, which may limit its acceptance by a wider audience. The production process for each unit requires 24 hours of labor, which not only drives up costs and selling prices, but also cuts production capacity. Furthermore, relying on crowdfunding to enter the market creates financial uncertainty, as access to funds in this way depends on the dynamics of crowdfunding platforms and investor interest.
+
+- Opportunities
+As people's living standards improve, people's awareness and concern about air quality in residential and office environments continues to grow, providing important opportunities for market expansion. By finding foundries to reduce costs and selling prices, and upgrading product features, these measures will tap a wider audience and stimulate market growth. Strategic alliances with educational institutions or environmental organizations can open up new avenues of market penetration and enhance brand credibility.
+
+- Threaten
+Although this product has good prospects, it still faces severe competition. These threats come from traditional LED cube kits and air quality detectors, which despite their limited functionality compared to the author's team's products, appeal to consumers through lower prices. Additionally, there is a risk that a saturation of similar products with imitators may dilute the uniqueness of the product. Economic fluctuations further exacerbate these threats, as a recession may reduce the disposable income of high-spending groups and reduce their interest in purchasing such products.
+
+In addition, this group introduces value chain analysis here. Through the exploration of main activities and supporting activities, this analysis describes how to add value and minimize costs, thereby enhancing the product's competitive advantage in the global market.
+
+### Main activities
+-Inbound logistics
+The initial stage of the value creation process: procuring high-quality sensors and LEDs from reputable suppliers to ensure product quality. At the same time, efficient inventory management is required to minimize storage costs and avoid stock-outs, thereby maintaining a seamless production process.
+
+-Operations
+The assembly of the LED cube system is a critical operation. The development of custom firmware for animated data display is at the heart of the product's uniqueness. Strict quality assurance processes are also implemented to meet the safety and performance standards of the regions in which they are sold.
+
+-Outbound logistics
+Strategic packaging of products not only ensures their protection during transportation, but also focuses on an environmentally friendly ethos. Logistics partners are selected with a focus on reliability and cost-effectiveness to facilitate global delivery capabilities.
+
+-Marketing and Sales
+Use social media, technology blogs and online forums to engage digital marketing strategies to attract the interest of technology enthusiasts and the education sector. Prepare your Kickstarter campaign carefully, aiming to emphasize the product's unique value proposition while seeking partnerships with educational institutions and environmental organizations to increase awareness of the product.
+
+-Serve
+Increase customer satisfaction and product longevity by providing after-sales support with comprehensive customer service for setup, usage and troubleshooting, as well as OTA updates for firmware enhancements and feature additions.
+
+### Support activities
+-Purchase
+Negotiations with suppliers have a dual goal: to secure the best price without compromising quality, and to work with suppliers who can support scalable solutions as volumes increase.
+
+-Technology development
+The commitment to ongoing research and development is evident, with the goals of improving product performance, reducing production costs and incubating new features. Software development investments are aimed at refining the user interface and expanding functionality.
+
+-Human resource Management
+We are committed to training our teams in efficient production techniques and exemplary customer service, cultivating a culture full of innovation and continuous improvement.
+
+-Infrastructure
+The management of the overall operating structure focuses on financial management, legal support and administrative functions. We envisioned a scalable infrastructure capable of adapting to growing business needs, such as flexible IT systems and workspaces.
+
+### Identify areas for improvement and cost reduction
+Operational efficiency is targeted to improve, with potential strategies including automation and improved assembly techniques to reduce significant production time. Production scaling is considered a means to exploit economies of scale, thereby reducing unit costs and enhancing market competitiveness. Diversification of the supplier base is recommended to reduce risk and possibly cost through competitive sourcing. In addition, digital marketing efforts will be strengthened to use analytics as a tool to increase focus on ideal customer segments to optimize conversion rates.
+
 
 
 ## Getting Started
